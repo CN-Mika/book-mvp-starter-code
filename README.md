@@ -1,1 +1,0 @@
-# book-mvp-starter-code
